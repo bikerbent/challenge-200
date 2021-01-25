@@ -1,0 +1,13 @@
+C:\Users\Dkaas\source\repos\challenge-200\Bluefragments\Bluefragments\bin\Debug\netcoreapp3.1\Bluefragments.exe
+C:\Users\Dkaas\source\repos\challenge-200\Bluefragments\Bluefragments\bin\Debug\netcoreapp3.1\Bluefragments.deps.json
+C:\Users\Dkaas\source\repos\challenge-200\Bluefragments\Bluefragments\bin\Debug\netcoreapp3.1\Bluefragments.runtimeconfig.json
+C:\Users\Dkaas\source\repos\challenge-200\Bluefragments\Bluefragments\bin\Debug\netcoreapp3.1\Bluefragments.runtimeconfig.dev.json
+C:\Users\Dkaas\source\repos\challenge-200\Bluefragments\Bluefragments\bin\Debug\netcoreapp3.1\Bluefragments.dll
+C:\Users\Dkaas\source\repos\challenge-200\Bluefragments\Bluefragments\bin\Debug\netcoreapp3.1\Bluefragments.pdb
+C:\Users\Dkaas\source\repos\challenge-200\Bluefragments\Bluefragments\obj\Debug\netcoreapp3.1\Bluefragments.csprojAssemblyReference.cache
+C:\Users\Dkaas\source\repos\challenge-200\Bluefragments\Bluefragments\obj\Debug\netcoreapp3.1\Bluefragments.AssemblyInfoInputs.cache
+C:\Users\Dkaas\source\repos\challenge-200\Bluefragments\Bluefragments\obj\Debug\netcoreapp3.1\Bluefragments.AssemblyInfo.cs
+C:\Users\Dkaas\source\repos\challenge-200\Bluefragments\Bluefragments\obj\Debug\netcoreapp3.1\Bluefragments.csproj.CoreCompileInputs.cache
+C:\Users\Dkaas\source\repos\challenge-200\Bluefragments\Bluefragments\obj\Debug\netcoreapp3.1\Bluefragments.dll
+C:\Users\Dkaas\source\repos\challenge-200\Bluefragments\Bluefragments\obj\Debug\netcoreapp3.1\Bluefragments.pdb
+C:\Users\Dkaas\source\repos\challenge-200\Bluefragments\Bluefragments\obj\Debug\netcoreapp3.1\Bluefragments.genruntimeconfig.cache
