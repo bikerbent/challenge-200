@@ -14,19 +14,21 @@ namespace Bluefragments
 
         public string IsPrime(int number)
         {
-            foreach(int prime in primes)
+            if (100 > number)
             {
-                if (100 > number)
+                foreach (int prime in primes)
                 {
+
                     if (number == prime)
                     {
                         return "Yes";
                     }
                 }
-                else
-                {
-                    return "How should I know?";
-                }
+
+            }
+            else
+            {
+                return "How should I know?";
             }
             return "No";
         }
